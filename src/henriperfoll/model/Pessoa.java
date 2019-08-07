@@ -16,7 +16,11 @@ public class Pessoa {
 	}
 
 	public String cadastrar() {
-		return "index";
+		return "confirmacao";
+	}
+	
+	public String teste() {
+		return "confirmacao";
 	}
 
 }

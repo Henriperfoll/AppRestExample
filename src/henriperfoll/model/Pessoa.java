@@ -16,11 +16,11 @@ public class Pessoa {
 	}
 
 	public String cadastrar() {
-		return "confirmacao";
+		return "teste";
 	}
 	
 	public String teste() {
-		return "confirmacao";
+		return "primefaceteste";
 	}
 
 }

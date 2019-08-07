@@ -16,7 +16,9 @@ transitional.dtd">
 		</h:outputText>
 		<h:inputText value="#{pessoa.nome}">
 		</h:inputText>
-		<h:commandButton value="Cadastrar" action="#{pessoa.teste()}" />
+		<h:commandButton value="Cadastrar" action="#{pessoa.cadastrar()}" />
 	</h:form>
+	
+	<h:link value="Primeface" href="#{pessoa.teste()}"></h:link>
 </h:body>
 </html>

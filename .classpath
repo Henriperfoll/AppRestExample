@@ -18,5 +18,8 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/home/henrique/eclipse-workspace/projetoJSF/WebContent/WEB-INF/lib/afterdark-1.0.10.jar"/>
+	<classpathentry kind="lib" path="/home/henrique/eclipse-workspace/projetoJSF/WebContent/WEB-INF/lib/primefaces-7.0.jar"/>
+	<classpathentry kind="lib" path="/home/henrique/eclipse-workspace/projetoJSF/WebContent/WEB-INF/lib/weld-servlet-2.4.8.Final.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
